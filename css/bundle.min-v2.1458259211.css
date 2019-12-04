@@ -1,0 +1,37 @@
+/*!
+ * Netmeds v3.3.6 (http://www.netmeds.com)
+ * Copyright 2016 Netmeds Marketplace Limited.*//*!
+ * Bootstrap v3.3.6 (http://getbootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+ 
+ .container2{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto;}
+ @media (min-width:1200px){.container2{width:1030px}}
+  
+
+ .header-middle .container2 .row{border-bottom:1px solid #fff;margin-left:0;margin-right:0;padding-top:0px;float:left; position:relative;}
+ .header-middle .container2 .row .col-sm-4{padding-left:0}
+ .header-middle .container2 .row .col-sm-8{padding-right:0}
+ .header.header5 .container2{width:100%;float:right; position:relative;}
+ .search_bgr2,.search_bgr21{background:#84c05c;width:100%;height:auto;margin:20px 0 14px;opacity:.94;padding:15px 5px;color:#262523;font-size:26px;font-weight:200;display:inline-block;font-family:open_sanslight; float:left; position:relative;}
+ .search_inputbg2{height:auto;background:#FFF;border-radius:8px;padding:3px;margin-right:8px;float:left; position:relative;}
+ .search_btn2{float:left; position:relative;}
+ .search_bgr2 input[type=text]{width:545px;border:none;float:left; position:relative;;font-weight:200;padding:0 10px;font-size:18px;height:34px;outline:0}
+ .search_bgr2 button{background-color:#231f20;border-radius:10px;font-size:20px;font-weight:200;padding:7px 29px 6px;border:none;color:#fff;cursor:pointer}.search_divd2{border-left:2px solid #231f20;height:117px;margin:0 8px; float:right; position:absolute; left:700px;}
+ .search_upd2{margin:0 auto}.search_mrg2{margin:7px 0 25px -2px;display:inline-block}
+ .search-select2{height:36px;display:none}
+ .search-select2 select{border:none;color:#505052;display:inline;height:36px;width:230px;float:left; position:relative;;box-shadow:none;font-size:18px;font-style:italic;padding:0;-webkit-appearance:none;background-color:#fff}
+ .search-select2 label::before{background:url(../images/icons/search-arrow.jpg?16010251113) no-repeat scroll left center #fff;content:"";display:block;height:37px;pointer-events:none;position:absolute;right:0;top:0;bottom:0;width:17px}
+ .search-select2 option{padding:5px}
+ .search-select2 label{position:relative}
+ 
+.search_bgr2 .col-sm-32{width:26%;display:inline-block;float:right; position:absolute; left:730px}
+col-sm-32{position:relative;min-height:1px;padding-right:15px;padding-left:15px}
+col-sm-32{float:left; position:relative;}
+.col-sm-32{width:25%}
+
+.col-sm-92 {position:relative;min-height:1px;padding-right:15px;padding-left:15px}
+.col-sm-92{float:left; position:relative;}.col-sm-92{width:75%}.col-sm-92c span.ValidationErrors{margin-left:110px}
+.search_bgr2 .col-sm-92{width:72%;display:inline-block;float:left; position:relative;}.search_bgr2 .col-sm-32{width:26%;display:inline-block;float:right}
+

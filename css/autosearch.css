@@ -1,0 +1,33 @@
+#display
+{
+width:380px;
+display:none;
+
+border-left:solid 1px #dedede;
+border-right:solid 1px #dedede;
+border-bottom:solid 1px #dedede;
+overflow:hidden;
+}
+.display_box
+{
+padding:4px; border-top:solid 1px #dedede; font-size:12px; 
+border-radius:2px;
+transition-duration: 0.4s;
+}
+.display_box a:link {
+    color: #000;
+	text-decoration:none;
+}
+
+.display_box:hover
+{
+background:#3b5998;
+text-decoration:none;
+background-color: #e7e7e7;
+}
+#shade
+{
+background-color:#00CCFF;
+
+}
+
